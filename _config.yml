@@ -27,9 +27,7 @@ tagline: Collect it. Build it. Share it.
 # this description might appear in search result lists, keep around 160 characters max
 description: "SOE Collection Builder is a system for organizing, managing, and storing digital collection in a simple and structured way"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Balneg, Shiela Mae
-David, Jamaica
-Vitto, Regine Kimberly
+author: Balneg, Shiela Mae, David, Jamaica, Vitto, Regine Kimberly
 
 ##########
 # COLLECTION SETTINGS
